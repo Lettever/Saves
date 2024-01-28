@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<data>
+    <Map id="MAPS/FLOOR2/ruins.tmx" />
+    <SavePoint id="ruins_spawn" />
+    <Position x="2424" y="3911" />
+    <Deaths count="168" />
+    <Kills count="14" />
+    <Keys>
+        <Key id="gamestarted" />
+        <Key id="tut_switch" />
+        <Key id="start_eyedoor" />
+        <Key id="tutorial_door" />
+        <Key id="colossus_dead" />
+        <Key id="colossus_door" />
+        <Key id="sludge_door" />
+        <Key id="sludgeheart_dead" />
+        <Key id="brain_door" />
+        <Key id="brainfreeze_dead" />
+        <Key id="eyecube_door" />
+        <Key id="eyecube_dead" />
+        <Key id="floor1_door_open" />
+        <Key id="mushroom_dead" />
+        <Key id="plant_dead" />
+        <Key id="icedoor" />
+        <Key id="onyx_dead" />
+        <Key id="snowface_dead" />
+        <Key id="avarice_switch" />
+        <Key id="avarice_dead" />
+        <Key id="ghost_dead" />
+        <Key id="elder_dead" />
+        <Key id="floor2_door_open" />
+        <Key id="guardian_dead" />
+        <Key id="king_started" />
+        <Key id="thesoul_dead" />
+        <Key id="truthdoorlook" />
+        <Key id="knight_dead" />
+        <Key id="titan" />
+    </Keys>
+    <Titan id="colossus">
+        <pos x="808" y="888" z="0" />
+        <pos x="802" y="848" z="0" />
+        <pos x="833" y="933" z="0" />
+    </Titan>
+    <Titan id="sludgeheart">
+        <pos x="536" y="367" z="0" />
+    </Titan>
+    <Titan id="brainfreeze">
+        <pos x="444" y="438" z="0" />
+        <angle>136.458542</angle>
+    </Titan>
+    <Titan id="eyecube">
+        <pos x="480" y="496" z="0" />
+        <angle>0.000000</angle>
+        <angle>1.570796</angle>
+        <angle>0.000000</angle>
+    </Titan>
+    <Titan id="mushroom">
+        <pos x="313" y="557" z="0" />
+        <angle>832.444458</angle>
+    </Titan>
+    <Titan id="plant">
+        <angle>-5.894661</angle>
+    </Titan>
+    <Titan id="onyx">
+        <pos x="538" y="719" z="-248" />
+    </Titan>
+    <Titan id="avarice">
+        <pos x="460" y="311" z="0" />
+        <angle>270.909058</angle>
+    </Titan>
+    <Titan id="ghost">
+        <pos x="709" y="612" z="0" />
+        <angle>178.440735</angle>
+    </Titan>
+    <Titan id="elder" />
+    <Titan id="guardian">
+        <pos x="1048" y="664" z="0" />
+        <pos x="997" y="762" z="0" />
+        <pos x="1002" y="771" z="0" />
+    </Titan>
+    <Titan id="thesoul">
+        <pos x="1054" y="667" z="0" />
+    </Titan>
+    <Titan id="knight">
+        <pos x="513" y="591" z="0" />
+        <pos x="457" y="710" z="0" />
+        <angle>269.999878</angle>
+        <angle>130.967224</angle>
+    </Titan>
+    <hard val="0" />
+    <iron val="0" />
+    <truth val="0" />
+    <rolls val="0" />
+    <trespawn val="0" />
+    <time val="522976" />
+</data>
+4bb9c6bba73826ec7f91ea8bec207b03
